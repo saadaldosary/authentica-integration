@@ -1,6 +1,6 @@
 # Authentica integration skill
 
-A reusable AI-agent skill for integrating [Authentica](https://docs.authentica.sa/) into web and mobile applications through a trusted backend.
+A reusable AI-agent skill for integrating [Authentica](https://authentica.sa/) into web and mobile applications through a trusted backend.
 
 **Independent community resource. Not an official Authentica SDK, not affiliated with or endorsed by Authentica, and not a complete authentication application.**
 
@@ -13,7 +13,6 @@ A reusable AI-agent skill for integrating [Authentica](https://docs.authentica.s
 - Browser, iOS, Android, Flutter and React Native integration guidance.
 - Provider documentation conflicts, unknowns and production release checks.
 
-The source review covers all nine pages listed in the official documentation index/sitemap plus OpenAPI v2.0.0, retrieved on 2026-11-08. Snapshots are evidence of that review, not a promise of current provider behavior.
 
 ## Use the skill
 
