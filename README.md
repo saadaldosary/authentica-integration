@@ -63,14 +63,12 @@ The adapter is a starting point, not a production auth service: your app must pr
 - Provider replay/expiry semantics, biometric formats/liveness and processing policies need confirmation for the selected deployment.
 - Never embed the API key in a browser bundle or mobile app. A runtime guard is not a substitute for a server-only build boundary.
 
-No live Authentica account, message delivery or biometric verification was exercised in preparing this repository. Production readiness requires authorized testing in your own environment.
-
 ## Contributing
 
 Verify provider claims against the live official documentation, cite sources, keep recommendations separate from documented guarantees and run the offline tests. Do not commit credentials, OTPs, real recipient data or biometric media. Report suspected provider issues to Authentica rather than publishing sensitive evidence in an issue.
 
 ## License and attribution
 
-Authored guidance and example code: [MIT](LICENSE), copyright 2026 Saad Aldosary. Prepared with Hermes Agent.
+Authored guidance and example code: [MIT](LICENSE).
 
 Provider documentation snapshots and specifications retain their original rights and attribution; the MIT license does not relicense Authentica's source material. See [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
