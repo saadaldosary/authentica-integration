@@ -1,0 +1,65 @@
+{
+  "retrieved_at": "2026-11-08T11:21:01.321916+00:00",
+  "coverage": {
+    "documentation_pages": 9,
+    "sitemap_pages": 9,
+    "exact_match": true
+  },
+  "sources": [
+    {
+      "url": "https://docs.authentica.sa/introduction/welcome.md",
+      "http_status": 200,
+      "sha256": "c746faaf5f7dc5f575dbec4be95cfa7ddda8b02efc8dd03b9a3b9e89862962a1"
+    },
+    {
+      "url": "https://docs.authentica.sa/guides/otp-workflow.md",
+      "http_status": 200,
+      "sha256": "b856a7af63921ee566f9716bc56a47168a2c6cad624b07a09f0d6797cbde1e3a"
+    },
+    {
+      "url": "https://docs.authentica.sa/guides/face-verification-workflow.md",
+      "http_status": 200,
+      "sha256": "224df5e3496199fa43967114fd11dd3ed395f8deba464b416bebac004147f623"
+    },
+    {
+      "url": "https://docs.authentica.sa/guides/voice-verification-workflow.md",
+      "http_status": 200,
+      "sha256": "a96aaeb81ca7c5a4779c5e86b114563da67453d3b02feb678b650900142d55a4"
+    },
+    {
+      "url": "https://docs.authentica.sa/api-reference/balance-monitoring/get-current-balance.md",
+      "http_status": 200,
+      "sha256": "ea907940851c6cb7a9bfe2b05628d5ecbd8bd92ef0f75d16a4fdef36cae6021f"
+    },
+    {
+      "url": "https://docs.authentica.sa/api-reference/otp-verification/send-otp.md",
+      "http_status": 200,
+      "sha256": "5aebc05aa6fe1a93c91226020345c19521951fdadacae16f312f8ce4f8c4d9d1"
+    },
+    {
+      "url": "https://docs.authentica.sa/api-reference/otp-verification/verify-otp.md",
+      "http_status": 200,
+      "sha256": "2aba1a964b0c76a3e4080fa56d3667487e9059bab2d100fa8c4b9993c60584a9"
+    },
+    {
+      "url": "https://docs.authentica.sa/api-reference/face-verification/verify-by-face.md",
+      "http_status": 200,
+      "sha256": "cfad360707efcbb263abc53a74abbdc46d989123a4c34e6ce0968206c243205a"
+    },
+    {
+      "url": "https://docs.authentica.sa/api-reference/voice-verification/verify-by-voice.md",
+      "http_status": 200,
+      "sha256": "c426478e3af44254142a9247f9f31466f890a791b60d0dfd6acef292bbe9c65c"
+    },
+    {
+      "url": "https://docs.authentica.sa/openapi.yaml",
+      "http_status": 200,
+      "sha256": "e27d93075f3ecfd7cb65ee33c386432cbc02b7e88cf5c11f050fbba99c11a446"
+    },
+    {
+      "url": "https://docs.authentica.sa/sitemap.xml",
+      "http_status": 200,
+      "sha256": "548248f816868925d5c0af52c57f846131f263fb14458745f8ef40332b3364d2"
+    }
+  ]
+}
